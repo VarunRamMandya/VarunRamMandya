@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VarunRamMandya
+- 👋 Hi, I’m @VarunRam
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on javascript
